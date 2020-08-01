@@ -8,7 +8,7 @@
 
 3. Navigate into the cloned folder - <code>cd envatoweb-app</code>
 
-4. Add upstream - <code>git remote add upstream https://github.com/Netacci/envatoweb-FE.git (Your forked repo url)</code>
+4. Add upstream - <code>git remote add upstream https://github.com/hngi/Envatoweb-FE.git (Your forked repo url)</code>
 
 5. Pull updates from the upstream - <code>git pull upstream develop</code>
 
@@ -40,7 +40,7 @@
 
 5. Push to your forked repo - <code>git push origin develop</code>
 
-6. Go to the repository https://github.com/Netacci/envatoweb-FE.git
+6. Go to the repository https://github.com/hngi/Envatoweb-FE.git
 
 7. As soon as you get there, you are going to see a green ‘compare and create a pull request’
 
